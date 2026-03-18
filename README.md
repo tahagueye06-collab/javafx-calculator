@@ -1,8 +1,11 @@
 # JavaFX Retirement Calculator
 
-## Wat doet het?
+## Beschrijving
+Gemaakt als schooloefening in het kader van mijn 
+1e bachelor Toegepaste Informatica.
+
 Een app waar je je geboortejaar invult en berekent 
-in welk jaar je met pensioen kan gaan.
+in welk jaar je met pensioen kan gaan. 
 De pensioenleeftijd is ingesteld op 67 jaar.
 
 ## Technologie
